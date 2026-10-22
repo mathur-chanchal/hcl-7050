@@ -1,4 +1,4 @@
-package day4;
+package Comparable_and_Sorting;
 import java.util.*;
 
 public class mapUsingHashMap {
